@@ -140,6 +140,19 @@ python main.py --delay 1.0 --keep-duplicates
 python main.py --skip-books
 ```
 
+### 🌐 Launching the Interactive Localhost Web Dashboard
+To deploy and interact with the dataset, analytics, and pipeline controls via a web interface in your browser:
+```bash
+streamlit run app.py
+```
+This automatically launches the dashboard on **`http://localhost:8501`**, featuring:
+- **📊 Data Explorer & Live Search:** Instant filtering by source, rating, price slider, and text search across titles, authors, and tags with CSV export buttons.
+- **📈 Visual Analytics:** Interactive charts for star rating distributions, book price histograms, top quote authors, and popular quote tags.
+- **📋 Audit & Reconciliation:** Visual display of the mathematical reconciliation formula ($1100 - 0 - 1 = 1099$) and raw JSON summary inspection.
+- **🚀 Pipeline Controls:** Trigger scraping jobs (quick 2-page test or 60-page production run) directly from the UI with configurable delay and timeout sliders.
+- **📜 Live Log Viewer:** Inspect and refresh `logs/scraper.log` in real time.
+
+
 ---
 
 ## 5. Running the Test Suite

@@ -1,0 +1,206 @@
+[2026-10-06 18:36:02] [INFO] [root]: ============================================================
+[2026-10-06 18:36:02] [INFO] [root]: Multi-Source Web Scraping & Data Consolidation Pipeline
+[2026-10-06 18:36:02] [INFO] [root]: Started at: 2026-10-06T13:06:02.512791+00:00
+[2026-10-06 18:36:02] [INFO] [root]: Configuration: delay=0.50s, timeout=10.0s
+[2026-10-06 18:36:02] [INFO] [root]: ============================================================
+[2026-10-06 18:36:02] [INFO] [root]: --- Stage 1A: Scraping Books to Scrape ---
+[2026-10-06 18:36:02] [INFO] [scrapers.books_scraper]: Starting scrape for Books to Scrape at https://books.toscrape.com/
+[2026-10-06 18:36:02] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 1: https://books.toscrape.com/
+[2026-10-06 18:36:03] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/
+[2026-10-06 18:36:08] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 1 extracted 20 records (running total: 20)
+[2026-10-06 18:36:08] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 2: https://books.toscrape.com/catalogue/page-2.html
+[2026-10-06 18:36:08] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-2.html
+[2026-10-06 18:36:10] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 2 extracted 20 records (running total: 40)
+[2026-10-06 18:36:10] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 3: https://books.toscrape.com/catalogue/page-3.html
+[2026-10-06 18:36:10] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-3.html
+[2026-10-06 18:36:12] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 3 extracted 20 records (running total: 60)
+[2026-10-06 18:36:12] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 4: https://books.toscrape.com/catalogue/page-4.html
+[2026-10-06 18:36:12] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-4.html
+[2026-10-06 18:36:14] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 4 extracted 20 records (running total: 80)
+[2026-10-06 18:36:14] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 5: https://books.toscrape.com/catalogue/page-5.html
+[2026-10-06 18:36:15] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-5.html
+[2026-10-06 18:36:16] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 5 extracted 20 records (running total: 100)
+[2026-10-06 18:36:16] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 6: https://books.toscrape.com/catalogue/page-6.html
+[2026-10-06 18:36:16] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-6.html
+[2026-10-06 18:36:17] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 6 extracted 20 records (running total: 120)
+[2026-10-06 18:36:17] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 7: https://books.toscrape.com/catalogue/page-7.html
+[2026-10-06 18:36:17] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-7.html
+[2026-10-06 18:36:18] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 7 extracted 20 records (running total: 140)
+[2026-10-06 18:36:18] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 8: https://books.toscrape.com/catalogue/page-8.html
+[2026-10-06 18:36:19] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-8.html
+[2026-10-06 18:36:20] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 8 extracted 20 records (running total: 160)
+[2026-10-06 18:36:20] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 9: https://books.toscrape.com/catalogue/page-9.html
+[2026-10-06 18:36:21] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-9.html
+[2026-10-06 18:36:21] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 9 extracted 20 records (running total: 180)
+[2026-10-06 18:36:21] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 10: https://books.toscrape.com/catalogue/page-10.html
+[2026-10-06 18:36:22] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-10.html
+[2026-10-06 18:36:22] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 10 extracted 20 records (running total: 200)
+[2026-10-06 18:36:22] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 11: https://books.toscrape.com/catalogue/page-11.html
+[2026-10-06 18:36:23] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-11.html
+[2026-10-06 18:36:24] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 11 extracted 20 records (running total: 220)
+[2026-10-06 18:36:24] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 12: https://books.toscrape.com/catalogue/page-12.html
+[2026-10-06 18:36:24] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-12.html
+[2026-10-06 18:36:25] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 12 extracted 20 records (running total: 240)
+[2026-10-06 18:36:25] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 13: https://books.toscrape.com/catalogue/page-13.html
+[2026-10-06 18:36:25] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-13.html
+[2026-10-06 18:36:27] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 13 extracted 20 records (running total: 260)
+[2026-10-06 18:36:27] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 14: https://books.toscrape.com/catalogue/page-14.html
+[2026-10-06 18:36:28] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-14.html
+[2026-10-06 18:36:31] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 14 extracted 20 records (running total: 280)
+[2026-10-06 18:36:31] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 15: https://books.toscrape.com/catalogue/page-15.html
+[2026-10-06 18:36:32] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-15.html
+[2026-10-06 18:36:34] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 15 extracted 20 records (running total: 300)
+[2026-10-06 18:36:34] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 16: https://books.toscrape.com/catalogue/page-16.html
+[2026-10-06 18:36:35] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-16.html
+[2026-10-06 18:36:36] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 16 extracted 20 records (running total: 320)
+[2026-10-06 18:36:36] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 17: https://books.toscrape.com/catalogue/page-17.html
+[2026-10-06 18:36:36] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-17.html
+[2026-10-06 18:36:37] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 17 extracted 20 records (running total: 340)
+[2026-10-06 18:36:37] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 18: https://books.toscrape.com/catalogue/page-18.html
+[2026-10-06 18:36:37] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-18.html
+[2026-10-06 18:36:38] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 18 extracted 20 records (running total: 360)
+[2026-10-06 18:36:38] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 19: https://books.toscrape.com/catalogue/page-19.html
+[2026-10-06 18:36:38] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-19.html
+[2026-10-06 18:36:39] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 19 extracted 20 records (running total: 380)
+[2026-10-06 18:36:39] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 20: https://books.toscrape.com/catalogue/page-20.html
+[2026-10-06 18:36:39] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-20.html
+[2026-10-06 18:36:40] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 20 extracted 20 records (running total: 400)
+[2026-10-06 18:36:40] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 21: https://books.toscrape.com/catalogue/page-21.html
+[2026-10-06 18:36:40] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-21.html
+[2026-10-06 18:36:41] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 21 extracted 20 records (running total: 420)
+[2026-10-06 18:36:41] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 22: https://books.toscrape.com/catalogue/page-22.html
+[2026-10-06 18:36:41] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-22.html
+[2026-10-06 18:36:42] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 22 extracted 20 records (running total: 440)
+[2026-10-06 18:36:42] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 23: https://books.toscrape.com/catalogue/page-23.html
+[2026-10-06 18:36:42] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-23.html
+[2026-10-06 18:36:43] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 23 extracted 20 records (running total: 460)
+[2026-10-06 18:36:43] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 24: https://books.toscrape.com/catalogue/page-24.html
+[2026-10-06 18:36:43] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-24.html
+[2026-10-06 18:36:44] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 24 extracted 20 records (running total: 480)
+[2026-10-06 18:36:44] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 25: https://books.toscrape.com/catalogue/page-25.html
+[2026-10-06 18:36:44] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-25.html
+[2026-10-06 18:36:45] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 25 extracted 20 records (running total: 500)
+[2026-10-06 18:36:45] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 26: https://books.toscrape.com/catalogue/page-26.html
+[2026-10-06 18:36:45] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-26.html
+[2026-10-06 18:36:46] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 26 extracted 20 records (running total: 520)
+[2026-10-06 18:36:46] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 27: https://books.toscrape.com/catalogue/page-27.html
+[2026-10-06 18:36:46] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-27.html
+[2026-10-06 18:36:46] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 27 extracted 20 records (running total: 540)
+[2026-10-06 18:36:46] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 28: https://books.toscrape.com/catalogue/page-28.html
+[2026-10-06 18:36:47] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-28.html
+[2026-10-06 18:36:51] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 28 extracted 20 records (running total: 560)
+[2026-10-06 18:36:51] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 29: https://books.toscrape.com/catalogue/page-29.html
+[2026-10-06 18:36:52] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-29.html
+[2026-10-06 18:36:54] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 29 extracted 20 records (running total: 580)
+[2026-10-06 18:36:54] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 30: https://books.toscrape.com/catalogue/page-30.html
+[2026-10-06 18:36:55] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-30.html
+[2026-10-06 18:36:59] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 30 extracted 20 records (running total: 600)
+[2026-10-06 18:36:59] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 31: https://books.toscrape.com/catalogue/page-31.html
+[2026-10-06 18:36:59] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-31.html
+[2026-10-06 18:37:04] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 31 extracted 20 records (running total: 620)
+[2026-10-06 18:37:04] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 32: https://books.toscrape.com/catalogue/page-32.html
+[2026-10-06 18:37:05] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-32.html
+[2026-10-06 18:37:05] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 32 extracted 20 records (running total: 640)
+[2026-10-06 18:37:05] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 33: https://books.toscrape.com/catalogue/page-33.html
+[2026-10-06 18:37:06] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-33.html
+[2026-10-06 18:37:06] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 33 extracted 20 records (running total: 660)
+[2026-10-06 18:37:06] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 34: https://books.toscrape.com/catalogue/page-34.html
+[2026-10-06 18:37:07] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-34.html
+[2026-10-06 18:37:07] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 34 extracted 20 records (running total: 680)
+[2026-10-06 18:37:07] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 35: https://books.toscrape.com/catalogue/page-35.html
+[2026-10-06 18:37:08] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-35.html
+[2026-10-06 18:37:08] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 35 extracted 20 records (running total: 700)
+[2026-10-06 18:37:08] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 36: https://books.toscrape.com/catalogue/page-36.html
+[2026-10-06 18:37:09] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-36.html
+[2026-10-06 18:37:09] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 36 extracted 20 records (running total: 720)
+[2026-10-06 18:37:09] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 37: https://books.toscrape.com/catalogue/page-37.html
+[2026-10-06 18:37:10] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-37.html
+[2026-10-06 18:37:11] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 37 extracted 20 records (running total: 740)
+[2026-10-06 18:37:11] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 38: https://books.toscrape.com/catalogue/page-38.html
+[2026-10-06 18:37:12] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-38.html
+[2026-10-06 18:37:14] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 38 extracted 20 records (running total: 760)
+[2026-10-06 18:37:14] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 39: https://books.toscrape.com/catalogue/page-39.html
+[2026-10-06 18:37:14] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-39.html
+[2026-10-06 18:37:16] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 39 extracted 20 records (running total: 780)
+[2026-10-06 18:37:16] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 40: https://books.toscrape.com/catalogue/page-40.html
+[2026-10-06 18:37:17] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-40.html
+[2026-10-06 18:37:18] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 40 extracted 20 records (running total: 800)
+[2026-10-06 18:37:18] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 41: https://books.toscrape.com/catalogue/page-41.html
+[2026-10-06 18:37:18] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-41.html
+[2026-10-06 18:37:19] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 41 extracted 20 records (running total: 820)
+[2026-10-06 18:37:19] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 42: https://books.toscrape.com/catalogue/page-42.html
+[2026-10-06 18:37:20] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-42.html
+[2026-10-06 18:37:20] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 42 extracted 20 records (running total: 840)
+[2026-10-06 18:37:20] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 43: https://books.toscrape.com/catalogue/page-43.html
+[2026-10-06 18:37:21] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-43.html
+[2026-10-06 18:37:22] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 43 extracted 20 records (running total: 860)
+[2026-10-06 18:37:22] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 44: https://books.toscrape.com/catalogue/page-44.html
+[2026-10-06 18:37:22] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-44.html
+[2026-10-06 18:37:23] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 44 extracted 20 records (running total: 880)
+[2026-10-06 18:37:23] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 45: https://books.toscrape.com/catalogue/page-45.html
+[2026-10-06 18:37:23] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-45.html
+[2026-10-06 18:37:26] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 45 extracted 20 records (running total: 900)
+[2026-10-06 18:37:26] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 46: https://books.toscrape.com/catalogue/page-46.html
+[2026-10-06 18:37:26] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-46.html
+[2026-10-06 18:37:30] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 46 extracted 20 records (running total: 920)
+[2026-10-06 18:37:30] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 47: https://books.toscrape.com/catalogue/page-47.html
+[2026-10-06 18:37:30] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-47.html
+[2026-10-06 18:37:32] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 47 extracted 20 records (running total: 940)
+[2026-10-06 18:37:32] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 48: https://books.toscrape.com/catalogue/page-48.html
+[2026-10-06 18:37:33] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-48.html
+[2026-10-06 18:37:35] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 48 extracted 20 records (running total: 960)
+[2026-10-06 18:37:35] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 49: https://books.toscrape.com/catalogue/page-49.html
+[2026-10-06 18:37:36] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-49.html
+[2026-10-06 18:37:38] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 49 extracted 20 records (running total: 980)
+[2026-10-06 18:37:38] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping page 50: https://books.toscrape.com/catalogue/page-50.html
+[2026-10-06 18:37:38] [INFO] [scrapers.base_scraper]: Fetching URL: https://books.toscrape.com/catalogue/page-50.html
+[2026-10-06 18:37:40] [INFO] [scrapers.books_scraper]: [Books to Scrape] Page 50 extracted 20 records (running total: 1000)
+[2026-10-06 18:37:40] [INFO] [scrapers.books_scraper]: [Books to Scrape] No next page link found. Reached final page (50).
+[2026-10-06 18:37:40] [INFO] [scrapers.books_scraper]: [Books to Scrape] Scraping completed. Total records collected: 1000
+[2026-10-06 18:37:40] [INFO] [root]: Successfully scraped 1000 books.
+[2026-10-06 18:37:40] [INFO] [root]: --- Stage 1B: Scraping Quotes to Scrape ---
+[2026-10-06 18:37:40] [INFO] [scrapers.quotes_scraper]: Starting scrape for Quotes to Scrape at https://quotes.toscrape.com/
+[2026-10-06 18:37:40] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Scraping page 1: https://quotes.toscrape.com/
+[2026-10-06 18:37:41] [INFO] [scrapers.base_scraper]: Fetching URL: https://quotes.toscrape.com/
+[2026-10-06 18:37:47] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Page 1 extracted 10 records (running total: 10)
+[2026-10-06 18:37:47] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Scraping page 2: https://quotes.toscrape.com/page/2/
+[2026-10-06 18:37:47] [INFO] [scrapers.base_scraper]: Fetching URL: https://quotes.toscrape.com/page/2/
+[2026-10-06 18:37:49] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Page 2 extracted 10 records (running total: 20)
+[2026-10-06 18:37:49] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Scraping page 3: https://quotes.toscrape.com/page/3/
+[2026-10-06 18:37:50] [INFO] [scrapers.base_scraper]: Fetching URL: https://quotes.toscrape.com/page/3/
+[2026-10-06 18:37:51] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Page 3 extracted 10 records (running total: 30)
+[2026-10-06 18:37:51] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Scraping page 4: https://quotes.toscrape.com/page/4/
+[2026-10-06 18:37:52] [INFO] [scrapers.base_scraper]: Fetching URL: https://quotes.toscrape.com/page/4/
+[2026-10-06 18:37:54] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Page 4 extracted 10 records (running total: 40)
+[2026-10-06 18:37:54] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Scraping page 5: https://quotes.toscrape.com/page/5/
+[2026-10-06 18:37:54] [INFO] [scrapers.base_scraper]: Fetching URL: https://quotes.toscrape.com/page/5/
+[2026-10-06 18:37:56] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Page 5 extracted 10 records (running total: 50)
+[2026-10-06 18:37:56] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Scraping page 6: https://quotes.toscrape.com/page/6/
+[2026-10-06 18:37:57] [INFO] [scrapers.base_scraper]: Fetching URL: https://quotes.toscrape.com/page/6/
+[2026-10-06 18:38:00] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Page 6 extracted 10 records (running total: 60)
+[2026-10-06 18:38:00] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Scraping page 7: https://quotes.toscrape.com/page/7/
+[2026-10-06 18:38:00] [INFO] [scrapers.base_scraper]: Fetching URL: https://quotes.toscrape.com/page/7/
+[2026-10-06 18:38:03] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Page 7 extracted 10 records (running total: 70)
+[2026-10-06 18:38:03] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Scraping page 8: https://quotes.toscrape.com/page/8/
+[2026-10-06 18:38:04] [INFO] [scrapers.base_scraper]: Fetching URL: https://quotes.toscrape.com/page/8/
+[2026-10-06 18:38:06] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Page 8 extracted 10 records (running total: 80)
+[2026-10-06 18:38:06] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Scraping page 9: https://quotes.toscrape.com/page/9/
+[2026-10-06 18:38:06] [INFO] [scrapers.base_scraper]: Fetching URL: https://quotes.toscrape.com/page/9/
+[2026-10-06 18:38:09] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Page 9 extracted 10 records (running total: 90)
+[2026-10-06 18:38:09] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Scraping page 10: https://quotes.toscrape.com/page/10/
+[2026-10-06 18:38:09] [INFO] [scrapers.base_scraper]: Fetching URL: https://quotes.toscrape.com/page/10/
+[2026-10-06 18:38:11] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Page 10 extracted 10 records (running total: 100)
+[2026-10-06 18:38:11] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] No next page link found. Reached final page (10).
+[2026-10-06 18:38:11] [INFO] [scrapers.quotes_scraper]: [Quotes to Scrape] Scraping completed. Total records collected: 100
+[2026-10-06 18:38:11] [INFO] [root]: Successfully scraped 100 quotes.
+[2026-10-06 18:38:11] [INFO] [root]: Scraping complete. Total raw records collected: 1100
+[2026-10-06 18:38:11] [INFO] [root]: --- Stage 2: Cleaning & Normalization ---
+[2026-10-06 18:38:11] [INFO] [root]: Cleaning complete. Cleaned 1100 records.
+[2026-10-06 18:38:11] [INFO] [root]: --- Stage 3: Data Validation ---
+[2026-10-06 18:38:11] [INFO] [root]: Validation complete. Valid: 1100, Rejected: 0
+[2026-10-06 18:38:11] [INFO] [root]: --- Stage 4: Duplicate Detection ---
+[2026-10-06 18:38:11] [INFO] [processing.deduplication]: Duplicate detected in [Books to Scrape]: The Star-Touched Queen
+[2026-10-06 18:38:11] [INFO] [root]: Deduplication complete. Duplicates detected: 1 (Keep-duplicates flag: False).
+[2026-10-06 18:38:11] [INFO] [root]: --- Stage 5: Consolidation & Export ---
+[2026-10-06 18:38:11] [INFO] [root]: Exported consolidated dataset to: output\final_dataset.csv
+[2026-10-06 18:38:11] [INFO] [root]: Exported summary report to: output\summary_report.json

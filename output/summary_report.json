@@ -1,0 +1,50 @@
+{
+    "execution_metadata": {
+        "start_time": "2026-10-06T13:06:02.512791+00:00",
+        "end_time": "2026-10-06T13:08:11.346876+00:00",
+        "duration_seconds": 128.83,
+        "python_version": "3.12.4",
+        "settings": {
+            "delay_seconds": 0.5,
+            "timeout_seconds": 10.0,
+            "keep_duplicates_flagged": false
+        }
+    },
+    "raw_collected_per_source": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100,
+        "total": 1100
+    },
+    "cleaned_records_per_source": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100,
+        "total": 1100
+    },
+    "rejected_records": {
+        "total_rejected": 0,
+        "by_reason": {}
+    },
+    "duplicates_detected": {
+        "total_duplicates": 1,
+        "by_source": {
+            "Books to Scrape": 1,
+            "Quotes to Scrape": 0
+        },
+        "strategy": "filtered_out"
+    },
+    "final_dataset": {
+        "total_records": 1099,
+        "by_source": {
+            "Books to Scrape": 999,
+            "Quotes to Scrape": 100
+        },
+        "output_csv": "output\\final_dataset.csv"
+    },
+    "reconciliation": {
+        "total_raw": 1100,
+        "total_rejected": 0,
+        "total_duplicates": 1,
+        "final_record_count": 1099,
+        "is_reconciled": true
+    }
+}

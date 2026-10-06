@@ -3,6 +3,8 @@
 [![Python Version](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-Pytest%20(25%20passed)-brightgreen.svg)](tests/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=pratikagre/Multi-Source-Web-Scraping-Data-Consolidation&branch=main&main_module=app.py)
+
 
 A robust, production-grade Python ETL pipeline designed to extract data from multiple heterogeneous web sources ([Books to Scrape](https://books.toscrape.com/) and [Quotes to Scrape](https://quotes.toscrape.com/)), normalize varying structural schemas into a unified data model, clean and validate fields, detect duplicates using fuzzy fingerprint hashing, and consolidate the results into an exportable dataset and summary report.
 
